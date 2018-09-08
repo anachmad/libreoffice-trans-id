@@ -1,0 +1,84 @@
+A
+
+
+B
+bar = bilah
+
+C
+cell = sel
+column = kolom
+
+D
+disable = matikan
+disabled = dimatikan
+
+E
+enable = nyalakan
+enabled = dinyalakan
+error = galat
+
+F
+format = format
+field = isian, kolom, field
+
+G
+grid = kisi
+
+H
+
+
+I
+insert = sisip
+
+J
+
+
+K
+
+
+L
+
+
+M
+margin = batasan
+
+N
+
+
+O
+
+
+P
+preview = pratinjau
+
+Q
+
+
+R
+restart = mulai ulang
+row = baris
+
+S
+setting = pengaturan
+shape = bentuk
+slide = salindia
+
+T
+toolbar = bilah alat
+
+U
+
+
+V
+
+
+W
+
+
+X
+
+
+Y
+
+
+Z
