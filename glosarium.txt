@@ -5,22 +5,34 @@ B
 bar = bilah
 
 C
+cancel = batal
 cell = sel
+close = tutup
 column = kolom
+content = konten
+copy = salin (kk), salinan (kb)
 custom = tersuai (misal : custom color = warna tersuai)
 
 D
+default = baku, bawaan
+description = deskripsi, keterangan
+digital = digital
 disable = matikan
 disabled = dimatikan
+document = dokumen
+download = unduh
 
 E
+email = surel
 enable = nyalakan
 enabled = dinyalakan
 error = galat
+export = ekspor
 
 F
-format = format
 field = isian, kolom, field
+file = berkas
+format = format
 
 G
 grid = kisi
@@ -29,6 +41,7 @@ H
 
 
 I
+import = impor
 insert = sisip
 
 J
@@ -38,7 +51,8 @@ K
 
 
 L
-
+library = pustaka
+libraries = pustaka
 
 M
 margin = batasan
@@ -47,35 +61,43 @@ N
 
 
 O
+option = opsi, pilihan
 overwrite = menimpa
 
 P
 preview = pratinjau
+printer = pencetak
 
 Q
 
 
 R
 recent = baru-baru ini, terkini
+region = wilayah
 restart = mulai ulang
 row = baris
 
 S
 setting = pengaturan
 shape = bentuk
+shortcut = pintasan
 slide = salindia
 
 T
+template = templat
+text = teks
 toolbar = bilah alat
 
 U
-
+upload = unggah
+user = pengguna
+username = nama pengguna
 
 V
 
 
 W
-
+worksheet = lembar kerja
 
 X
 
