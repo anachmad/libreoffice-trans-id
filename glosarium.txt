@@ -19,6 +19,8 @@ description = deskripsi, keterangan
 digital = digital
 disable = matikan
 disabled = dimatikan
+disc = ?
+disk = ?
 document = dokumen
 download = unduh
 
@@ -65,6 +67,7 @@ option = opsi, pilihan
 overwrite = menimpa
 
 P
+pause = jeda (kb) menjeda (kk)
 preview = pratinjau
 printer = pencetak
 
