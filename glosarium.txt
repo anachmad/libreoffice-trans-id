@@ -62,6 +62,7 @@ N
 
 O
 option = opsi, pilihan
+output = keluaran
 overwrite = menimpa
 
 P
