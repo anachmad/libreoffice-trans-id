@@ -23,6 +23,7 @@ disc = ?
 disk = ?
 document = dokumen
 download = unduh
+driver = pemacu/penggerak --cek
 
 E
 email = surel
@@ -30,6 +31,7 @@ enable = nyalakan
 enabled = dinyalakan
 error = galat
 export = ekspor
+extension = ekstensi
 
 F
 field = isian, kolom, field
@@ -90,7 +92,9 @@ slide = salindia
 T
 template = templat
 text = teks
+toogle = jungkit
 toolbar = bilah alat
+tools = perkakas
 
 U
 upload = unggah
@@ -101,6 +105,7 @@ V
 
 
 W
+wizard = wahana pandu / wisaya --cek
 worksheet = lembar kerja
 
 X
