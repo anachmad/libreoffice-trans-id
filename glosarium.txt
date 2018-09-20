@@ -1,5 +1,5 @@
 A
-
+author = pengarang
 
 B
 bar = bilah
@@ -10,8 +10,9 @@ cell = sel
 close = tutup
 column = kolom
 content = konten
+count = hitung
 copy = salin (kk), salinan (kb)
-custom = tersuai (misal : custom color = warna tersuai)
+custom = tersuai / ubahan (misal : custom color = warna tersuai) --cek
 
 D
 default = baku, bawaan
@@ -60,6 +61,7 @@ libraries = pustaka
 
 M
 margin = batasan
+mean = rerata
 
 N
 
@@ -80,11 +82,13 @@ Q
 R
 recent = baru-baru ini, terkini
 region = wilayah
+remove = hapuskan
 restart = mulai ulang
 row = baris
 
 S
 setting = pengaturan
+server = server
 shape = bentuk
 shortcut = pintasan
 slide = salindia
