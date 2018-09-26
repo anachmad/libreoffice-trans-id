@@ -111,7 +111,7 @@ user = pengguna
 username = nama pengguna
 
 V
-
+View = Tampilan
 
 W
 wizard = wahana pandu / wisaya --cek
