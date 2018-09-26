@@ -12,7 +12,7 @@ column = kolom
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
-custom = tersuai / ubahan (misal : custom color = warna tersuai) --cek
+custom = ubahan (misal : custom color = warna ubahan)
 
 D
 default = baku, bawaan
@@ -28,6 +28,7 @@ driver = pemacu/penggerak --cek
 
 E
 email = surel
+embed = tanamkan
 enable = nyalakan
 enabled = dinyalakan
 error = galat
@@ -80,6 +81,7 @@ Q
 
 
 R
+range = rentang, jangkau
 recent = baru-baru ini, terkini
 region = wilayah
 remove = hapuskan
@@ -92,21 +94,23 @@ server = server
 shape = bentuk
 shortcut = pintasan
 slide = salindia
+spreadsheet = ?
 
 T
 template = templat
 text = teks
-toogle = jungkit
+toogle = jungkitkan
 toolbar = bilah alat
 tools = perkakas
 
 U
+update = pemutakhiran (kb), mutakhirkan (kk)
 upload = unggah
 user = pengguna
 username = nama pengguna
 
 V
-
+valid = valid
 
 W
 wizard = wahana pandu / wisaya --cek
