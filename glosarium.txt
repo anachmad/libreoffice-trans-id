@@ -1,4 +1,5 @@
 A
+align = perataan
 author = pengarang
 
 B
@@ -13,6 +14,8 @@ content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
 custom = ubahan (misal : custom color = warna ubahan)
+current = saat ini
+custom = tersuai / ubahan (misal : custom color = warna tersuai) --cek
 
 D
 default = baku, bawaan
@@ -38,6 +41,7 @@ extension = ekstensi
 F
 field = ruas
 file = berkas
+footer = kaki
 format = format
 
 G
@@ -51,6 +55,7 @@ I
 image = citra
 import = impor
 insert = sisipkan
+item = item
 
 J
 
@@ -65,6 +70,7 @@ libraries = pustaka
 M
 margin = batasan
 mean = rerata
+mouse = tetikus
 
 N
 
@@ -86,11 +92,12 @@ Q
 
 R
 range = rentang
-recent = baru-baru ini, terkini
+recent = terkini
 reference = referensi
 region = wilayah
 remove = hapuskan
 restart = mulai ulang
+review = tinjau
 row = baris
 
 S
@@ -102,9 +109,12 @@ slide = salindia
 spreadsheet = ?
 
 T
+tab = ?
 template = templat
 text = teks
-toogle = jungkitkan
+through = lewati
+thumbnail = thumbnail
+toogle = jungkit
 toolbar = bilah alat
 tools = perkakas
 
@@ -116,10 +126,12 @@ username = nama pengguna
 
 V
 valid = valid
+view = tampilan
 
 W
 wizard = wahana pandu / wisaya --cek
 worksheet = lembar kerja
+wrap = bungkus
 
 X
 
