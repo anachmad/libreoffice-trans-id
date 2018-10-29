@@ -39,14 +39,15 @@ extension = ekstensi
 F
 field = ruas
 file = berkas
+footer = kaki
 format = format
 
 G
 grid = kisi
 
 H
-home = ?
-header = 
+home = beranda
+header = tajuk
 
 I
 image = citra
@@ -67,11 +68,14 @@ libraries = pustaka
 M
 margin = batasan
 mean = rerata
+mouse = tetikus
 
 N
 
 
 O
+offline = luring
+online = daring
 option = opsi, pilihan
 output = keluaran
 overwrite = menimpa
@@ -91,6 +95,7 @@ reference = referensi
 region = wilayah
 remove = hapuskan
 restart = mulai ulang
+review = tinjau
 row = baris
 
 S
@@ -101,6 +106,7 @@ shortcut = pintasan
 slide = salindia
 
 T
+tab = ?
 template = templat
 text = teks
 through = lewati
@@ -116,12 +122,12 @@ user = pengguna
 username = nama pengguna
 
 V
-view = Tampilan
+view = tampilan
 
 W
 wizard = wahana pandu / wisaya --cek
 worksheet = lembar kerja
-wrap = lipat
+wrap = bungkus
 
 X
 
