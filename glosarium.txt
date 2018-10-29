@@ -104,6 +104,7 @@ T
 template = templat
 text = teks
 through = lewati
+thumbnail = thumbnail
 toogle = jungkit
 toolbar = bilah alat
 tools = perkakas
