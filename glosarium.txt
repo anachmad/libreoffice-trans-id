@@ -36,7 +36,7 @@ export = ekspor
 extension = ekstensi
 
 F
-field = isian, kolom, field
+field = ruas
 file = berkas
 format = format
 
@@ -44,11 +44,13 @@ G
 grid = kisi
 
 H
-
+home = beranda
+header = tajuk
 
 I
+image = citra
 import = impor
-insert = sisip
+insert = sisipkan
 
 J
 
@@ -68,6 +70,8 @@ N
 
 
 O
+offline = luring
+online = daring
 option = opsi, pilihan
 output = keluaran
 overwrite = menimpa
@@ -81,8 +85,9 @@ Q
 
 
 R
-range = rentang, jangkau
+range = rentang
 recent = baru-baru ini, terkini
+reference = referensi
 region = wilayah
 remove = hapuskan
 restart = mulai ulang
