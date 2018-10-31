@@ -1,13 +1,14 @@
-A
+#Glossarium
+
+##A
 advanced = lanjut
 align = perataan
 author = pengarang
 
-
-B
+##B
 bar = bilah
 
-C
+##C
 cancel = batal
 cell = sel
 close = tutup
@@ -15,11 +16,10 @@ column = kolom
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
-custom = ubahan (misal : custom color = warna ubahan)
+**custom** = ubahan (misal : custom color = warna ubahan) --cek
 current = saat ini
-custom = tersuai / ubahan (misal : custom color = warna tersuai) --cek
 
-D
+##D
 default = baku, bawaan
 description = deskripsi, keterangan
 digital = digital
@@ -29,9 +29,9 @@ disc = ?
 disk = ?
 document = dokumen
 download = unduh
-driver = pemacu/penggerak --cek
+**driver** = pemacu/penggerak --cek
 
-E
+##E
 email = surel
 embed = tanamkan
 enable = nyalakan
@@ -40,45 +40,45 @@ error = galat
 export = ekspor
 extension = ekstensi
 
-F
+##F
 field = ruas
 file = berkas
 footer = kaki
 format = format
 
-G
+##G
 grid = kisi
 
-H
+##H
 home = beranda
 header = tajuk
 
-I
+##I
 image = citra
 import = impor
 insert = sisipkan
 item = item
 
-J
+##J
 
 
-K
+##K
 
 
-L
+##L
 library = pustaka
 libraries = pustaka
 
-M
+##M
 margin = batasan
 mean = rerata
 mouse = tetikus
 
-N
+##N
 null = nol
 
 
-O
+##O
 offline = luring
 online = daring
 on the fly = dengan cepat
@@ -86,16 +86,16 @@ option = opsi, pilihan
 output = keluaran
 overwrite = menimpa
 
-P
+##P
 pause = jeda (kb) menjeda (kk)
-pop up = ?
+**pop up** = ? --cek
 preview = pratinjau
 printer = pencetak
 
-Q
+##Q
 
 
-R
+##R
 range = rentang
 recent = terkini
 reference = referensi
@@ -105,16 +105,16 @@ restart = mulai ulang
 review = tinjau
 row = baris
 
-S
+##S
 setting = pengaturan
 server = server
 shape = bentuk
 shortcut = pintasan
 slide = salindia
-spreadsheet = ?
+**spreadsheet** = ? --cek
 
-T
-tab = ?
+##T
+**tab** = ?
 template = templat
 text = teks
 through = lewati
@@ -123,25 +123,25 @@ toogle = jungkit
 toolbar = bilah alat
 tools = perkakas
 
-U
+##U
 update = pemutakhiran (kb), mutakhirkan (kk)
 upload = unggah
 user = pengguna
 username = nama pengguna
 
-V
+##V
 valid = valid
 view = tampilan
 
-W
-wizard = wahana pandu / wisaya --cek
+##W
+**wizard** = wahana pandu / wisaya --cek
 worksheet = lembar kerja
 wrap = bungkus
 
-X
+##X
 
 
-Y
+##Y
 
 
-Z
+##Z
