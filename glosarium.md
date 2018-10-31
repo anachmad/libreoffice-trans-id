@@ -1,63 +1,63 @@
-#Glossarium
+# Glossarium
 
 ## A
-advanced = lanjut
-align = perataan
-author = pengarang
+advanced = lanjut<br/>
+align = perataan<br/>
+author = pengarang<br/>
 
 ## B
 bar = bilah
 
 ## C
-cancel = batal
-cell = sel
-close = tutup
-column = kolom
-content = konten
-count = hitung
-copy = salin (kk), salinan (kb)
-**custom** = ubahan (misal : custom color = warna ubahan) --cek
-current = saat ini
+cancel = batal<br/>
+cell = sel<br/>
+close = tutup<br/>
+column = kolom<br/>
+content = konten<br/>
+count = hitung<br/>
+copy = salin (kk), salinan (kb)<br/>
+**custom** = ubahan (misal : custom color = warna ubahan) --cek<br/>
+current = saat ini<br/>
 
 ## D
-default = baku, bawaan
-description = deskripsi, keterangan
-digital = digital
-disable = matikan
-disabled = dimatikan
-disc = ?
-disk = ?
-document = dokumen
-download = unduh
-**driver** = pemacu/penggerak --cek
+default = baku, bawaan<br/>
+description = deskripsi, keterangan<br/>
+digital = digital<br/>
+disable = matikan<br/>
+disabled = dimatikan<br/>
+disc = ? --cek<br/>
+disk = ? --cek<br/>
+document = dokumen<br/>
+download = unduh<br/>
+**driver** = pemacu/penggerak --cek<br/>
 
 ## E
-email = surel
-embed = tanamkan
-enable = nyalakan
-enabled = dinyalakan
-error = galat
-export = ekspor
-extension = ekstensi
+email = surel<br/>
+embed = tanamkan<br/>
+enable = nyalakan<br/>
+enabled = dinyalakan<br/>
+error = galat<br/>
+export = ekspor<br/>
+extension = ekstensi<br/>
 
 ## F
-field = ruas
-file = berkas
-footer = kaki
-format = format
+field = ruas<br/>
+file = berkas<br/>
+footer = kaki<br/>
+format = format<br/>
 
 ## G
-grid = kisi
+grid = kisi<br/>
 
 ## H
-home = beranda
-header = tajuk
+home = beranda<br/>
+header = tajuk<br/>
 
 ## I
-image = citra
-import = impor
-insert = sisipkan
-item = item
+image = citra<br/>
+import = impor<br/>
+insert = sisipkan<br/>
+item = item<br/>
 
 ## J
 
@@ -66,77 +66,77 @@ item = item
 
 
 ## L
-library = pustaka
-libraries = pustaka
+library = pustaka<br/>
+libraries = pustaka<br/>
 
 ## M
-margin = batasan
-mean = rerata
-mouse = tetikus
+margin = batasan<br/>
+mean = rerata<br/>
+mouse = tetikus<br/>
 
 ## N
-null = nol
+null = nol<br/>
 
 
 ## O
-offline = luring
-online = daring
-on the fly = dengan cepat
-option = opsi, pilihan
-output = keluaran
-overwrite = menimpa
+offline = luring<br/>
+online = daring<br/>
+on the fly = dengan cepat<br/>
+option = opsi, pilihan<br/>
+output = keluaran<br/>
+overwrite = menimpa<br/>
 
 ## P
-pause = jeda (kb) menjeda (kk)
-**pop up** = ? --cek
-preview = pratinjau
-printer = pencetak
+pause = jeda (kb) menjeda (kk)<br/>
+**pop up** = ? --cek<br/>
+preview = pratinjau<br/>
+printer = pencetak<br/>
 
 ## Q
 
 
 ## R
-range = rentang
-recent = terkini
-reference = referensi
-region = wilayah
-remove = hapuskan
-restart = mulai ulang
-review = tinjau
-row = baris
+range = rentang<br/>
+recent = terkini<br/>
+reference = referensi<br/>
+region = wilayah<br/>
+remove = hapuskan<br/>
+restart = mulai ulang<br/>
+review = tinjau<br/>
+row = baris<br/>
 
 ## S
-setting = pengaturan
-server = server
-shape = bentuk
-shortcut = pintasan
-slide = salindia
-**spreadsheet** = ? --cek
+setting = pengaturan<br/>
+server = server<br/>
+shape = bentuk<br/>
+shortcut = pintasan<br/>
+slide = salindia<br/>
+**spreadsheet** = ? --cek<br/>
 
 ## T
-**tab** = ?
-template = templat
-text = teks
-through = lewati
-thumbnail = thumbnail
-toogle = jungkit
-toolbar = bilah alat
-tools = perkakas
+**tab** = ?<br/>
+template = templat<br/>
+text = teks<br/>
+through = lewati<br/>
+thumbnail = thumbnail<br/>
+toogle = jungkit<br/>
+toolbar = bilah alat<br/>
+tools = perkakas<br/>
 
 ## U
-update = pemutakhiran (kb), mutakhirkan (kk)
-upload = unggah
-user = pengguna
-username = nama pengguna
+update = pemutakhiran (kb), mutakhirkan (kk)<br/>
+upload = unggah<br/>
+user = pengguna<br/>
+username = nama pengguna<br/>
 
 ## V
-valid = valid
-view = tampilan
+valid = valid<br/>
+view = tampilan<br/>
 
 ## W
-**wizard** = wahana pandu / wisaya --cek
-worksheet = lembar kerja
-wrap = bungkus
+**wizard** = wahana pandu / wisaya --cek<br/>
+worksheet = lembar kerja<br/>
+wrap = bungkus<br/>
 
 ## X
 
