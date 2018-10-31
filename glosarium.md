@@ -1,4 +1,4 @@
-#Glossarium
+# Glossarium
 
 ## A
 advanced = lanjut
