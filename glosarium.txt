@@ -1,6 +1,8 @@
 A
+advanced = lanjut
 align = perataan
 author = pengarang
+
 
 B
 bar = bilah
@@ -73,17 +75,20 @@ mean = rerata
 mouse = tetikus
 
 N
+null = nol
 
 
 O
 offline = luring
 online = daring
+on the fly = dengan cepat
 option = opsi, pilihan
 output = keluaran
 overwrite = menimpa
 
 P
 pause = jeda (kb) menjeda (kk)
+pop up = ?
 preview = pratinjau
 printer = pencetak
 
