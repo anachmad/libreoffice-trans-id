@@ -7,13 +7,17 @@ author = pengarang
 B
 bar = bilah
 bookmark = markah buku
+border = batas / tepi
 bullet = bulatan
 
 C
 cancel = batal
 cell = sel
+click = klik
+clicking = mengeklik
 close = tutup
 column = kolom
+console = konsol
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
@@ -55,6 +59,7 @@ grid = kisi
 H
 home = beranda
 header = tajuk
+hyperlink = pranala
 
 I
 image = citra
@@ -71,11 +76,13 @@ K
 L
 library = pustaka
 libraries = pustaka
+link = tautan
 
 M
 margin = batasan
 mean = rerata
 mouse = tetikus
+multiple = 
 
 N
 null = nol
@@ -92,11 +99,13 @@ overwrite = menimpa
 P
 pause = jeda (kb) menjeda (kk)
 pop up = ?
+preference = preferensi
+presenter = penyaji
 preview = pratinjau
 printer = pencetak
 
 Q
-
+query = query
 
 R
 range = rentang
@@ -106,6 +115,7 @@ region = wilayah
 remove = hapuskan
 restart = mulai ulang
 review = tinjau
+run = 
 row = baris
 
 S
@@ -117,14 +127,18 @@ slide = salindia
 spreadsheet = ?
 
 T
-tab = ?
+tab = tab
+tabbed = 
 template = templat
 text = teks
 through = lewati
 thumbnail = thumbnail
+tips = tips
 toogle = jungkit
 toolbar = bilah alat
 tools = perkakas
+tooltip = ?
+twip = twip
 
 U
 update = pemutakhiran (kb), mutakhirkan (kk)
