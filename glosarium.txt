@@ -23,6 +23,7 @@ console = konsol
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
+cursor = 
 custom = ubahan
 current = saat ini
 
@@ -31,6 +32,7 @@ database = pangkalan data
 default = baku, bawaan
 description = deskripsi, keterangan
 digital = digital
+directory = direktori
 disable = matikan
 disabled = dimatikan
 disc = diska
@@ -44,6 +46,7 @@ email = surel
 embed = tanamkan
 enable = nyalakan
 enabled = dinyalakan
+entry = entri
 error = galat
 export = ekspor
 extension = ekstensi
@@ -52,6 +55,8 @@ event = kejadian
 F
 field = ruas
 file = berkas
+folder = folder
+font = fon
 footer = kaki
 form = formulir
 format = format
@@ -96,11 +101,14 @@ O
 offline = luring
 online = daring
 on the fly = dengan cepat
+outline = 
 option = opsi, pilihan
 output = keluaran
+overview = 
 overwrite = menimpa
 
 P
+path = jalur
 pause = jeda (kb) menjeda (kk)
 pop up = ?
 preference = preferensi
