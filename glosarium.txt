@@ -8,6 +8,7 @@ B
 bar = bilah
 bookmark = markah buku
 border = batas / tepi
+breakpoint = 
 bullet = bulatan
 
 C
@@ -21,9 +22,8 @@ console = konsol
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
-custom = ubahan (misal : custom color = warna ubahan)
+custom = ubahan
 current = saat ini
-custom = tersuai / ubahan (misal : custom color = warna tersuai) --cek
 
 D
 database = pangkalan data
@@ -32,8 +32,8 @@ description = deskripsi, keterangan
 digital = digital
 disable = matikan
 disabled = dimatikan
-disc = ?
-disk = ?
+disc = diska
+disk = diska
 document = dokumen
 download = unduh
 driver = pemacu/penggerak --cek
@@ -46,6 +46,7 @@ enabled = dinyalakan
 error = galat
 export = ekspor
 extension = ekstensi
+event = kejadian
 
 F
 field = ruas
@@ -57,6 +58,7 @@ G
 grid = kisi
 
 H
+harddisk = diska
 home = beranda
 header = tajuk
 hyperlink = pranala
