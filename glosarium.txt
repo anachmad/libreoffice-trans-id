@@ -8,7 +8,7 @@ B
 bar = bilah
 bookmark = markah buku
 border = batas / tepi
-breakpoint = 
+breakpoint = titik jeda
 bullet = bulatan
 
 C
@@ -23,7 +23,7 @@ console = konsol
 content = konten
 count = hitung
 copy = salin (kk), salinan (kb)
-cursor = 
+cursor = kursor
 custom = ubahan
 current = saat ini
 
@@ -110,13 +110,13 @@ on the fly = dengan cepat
 outline = 
 option = opsi, pilihan
 output = keluaran
-overview = 
+overview = ikhtisar
 overwrite = menimpa
 
 P
 path = jalur
 pause = jeda (kb) menjeda (kk)
-pop up = ?
+pop up = pop up
 preference = preferensi
 presenter = penyaji
 preview = pratinjau
@@ -130,14 +130,15 @@ range = rentang
 recent = terkini
 reference = referensi
 region = wilayah
-remove = hapuskan
-replace = 
+remove = hapus, hapuskan
+replace = ganti, gantikan
 restart = mulai ulang
 review = tinjau
-run = 
+run = jalankan
 row = baris
 
 S
+set = atur
 setting = pengaturan
 server = server
 shape = bentuk
