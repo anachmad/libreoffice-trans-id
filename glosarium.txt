@@ -1,6 +1,6 @@
 A
 advanced = lanjut
-align = perataan
+align = ratakan
 alignment = perataan
 author = pengarang
 
@@ -101,7 +101,7 @@ multiple =
 
 N
 null = nol
-
+number = nomor (cth : numbered list), bilangan (cth : complex number)
 
 O
 offline = luring
@@ -133,7 +133,7 @@ region = wilayah
 remove = hapus, hapuskan
 replace = ganti, gantikan
 restart = mulai ulang
-review = tinjau
+review = tinjau (kk), tinjauan (kb)
 run = jalankan
 row = baris
 
