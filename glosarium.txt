@@ -1,8 +1,8 @@
 A
 advanced = lanjut
 align = perataan
+alignment = perataan
 author = pengarang
-
 
 B
 bar = bilah
@@ -29,8 +29,12 @@ current = saat ini
 
 D
 database = pangkalan data
+debug = awakutu
+debugging = pengawakutuan
 default = baku, bawaan
+define = tetapkan
 description = deskripsi, keterangan
+device = perangkat
 digital = digital
 directory = direktori
 disable = matikan
@@ -38,6 +42,8 @@ disabled = dimatikan
 disc = diska
 disk = diska
 document = dokumen
+dock = lekat, melekat
+docking = melekatkan (kk), perlekatan (kb)
 download = unduh
 driver = pemacu/penggerak --cek
 
@@ -137,8 +143,10 @@ server = server
 shape = bentuk
 shortcut = pintasan
 slide = salindia
+specify = tentukan
 spreadsheet = ?
 syntax = sintaksis
+
 
 T
 tab = tab
@@ -156,6 +164,8 @@ tooltip = ?
 twip = twip
 
 U
+undock = lepas, melepas
+undocking = melepaskan
 update = pemutakhiran (kb), mutakhirkan (kk)
 upload = unggah
 user = pengguna
