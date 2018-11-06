@@ -31,6 +31,7 @@ D
 database = pangkalan data
 debug = awakutu
 debugging = pengawakutuan
+dedicated = khusus [dedicated server >> server khusus]
 default = baku, bawaan
 define = tetapkan
 description = deskripsi, keterangan
@@ -68,6 +69,7 @@ form = formulir
 format = format
 
 G
+go = menuju
 grid = kisi
 
 H
