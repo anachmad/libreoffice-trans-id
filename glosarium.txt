@@ -133,6 +133,7 @@ region = wilayah
 remove = hapus, hapuskan
 replace = ganti, gantikan
 restart = mulai ulang
+restore = pulihkan, memulihkan
 review = tinjau (kk), tinjauan (kb)
 run = jalankan
 row = baris
