@@ -141,6 +141,7 @@ run = jalankan
 row = baris
 
 S
+semantic = semantik
 set = atur
 setting = pengaturan
 server = server
