@@ -1,6 +1,6 @@
 A
 advanced = lanjut
-align = ratakan
+align = rata (kb), ratakan (kk)
 alignment = perataan
 author = pengarang
 
@@ -70,6 +70,7 @@ format = format
 
 G
 go = menuju
+graphic = grafik
 grid = kisi
 
 H
@@ -118,6 +119,7 @@ overwrite = menimpa
 P
 path = jalur
 pause = jeda (kb) menjeda (kk)
+picture = gambar
 pop up = pop up
 preference = preferensi
 presenter = penyaji
@@ -125,7 +127,7 @@ preview = pratinjau
 printer = pencetak
 
 Q
-query = query
+query = kueri
 
 R
 range = rentang
@@ -151,7 +153,6 @@ slide = salindia
 specify = tentukan
 spreadsheet = ?
 syntax = sintaksis
-
 
 T
 tab = tab
