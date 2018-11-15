@@ -6,6 +6,7 @@ author = pengarang
 
 B
 bar = bilah
+back button = tombol kembali
 bookmark = markah buku
 border = batas / tepi
 breakpoint = titik jeda
@@ -67,6 +68,7 @@ font = fon
 footer = kaki
 form = formulir
 format = format
+forward button = tombol maju
 
 G
 go = menuju
