@@ -107,7 +107,7 @@ row = baris<br/>
 
 ## S
 setting = pengaturan<br/>
-server = server<br/>
+server = server/peladen<br/>
 shape = bentuk<br/>
 shortcut = pintasan<br/>
 slide = salindia<br/>
