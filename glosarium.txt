@@ -148,7 +148,7 @@ S
 semantic = semantik
 set = atur
 setting = pengaturan
-server = server
+server = peladen/server
 shape = bentuk
 shortcut = pintasan
 slide = salindia
