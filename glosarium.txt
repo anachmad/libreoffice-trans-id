@@ -123,6 +123,7 @@ P
 path = jalur
 pause = jeda (kb) menjeda (kk)
 picture = gambar
+pointer = penunjuk [mouse pointer = penunjuk tetikus]
 pop up = pop up
 preference = preferensi
 presenter = penyaji
