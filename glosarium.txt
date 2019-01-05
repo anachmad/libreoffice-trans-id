@@ -2,6 +2,7 @@ A
 advanced = lanjut
 align = rata (kb), ratakan (kk)
 alignment = perataan
+anchor = 
 author = pengarang
 
 B
@@ -23,6 +24,7 @@ close = tutup
 column = kolom
 console = konsol
 content = konten
+converted = diubah
 count = hitung
 copy = salin (kk), salinan (kb)
 cursor = kursor
@@ -49,6 +51,7 @@ dock = lekat, melekat
 docking = melekatkan (kk), perlekatan (kb)
 download = unduh
 driver = pemacu/penggerak --cek
+dropdown = tarik turun
 
 E
 email = surel
@@ -70,11 +73,13 @@ footer = kaki
 form = formulir
 format = format
 forward button = tombol maju
+frame = 
 
 G
 go = menuju
 graphic = grafik
 grid = kisi
+group = grup
 
 H
 harddisk = diska
@@ -92,12 +97,13 @@ J
 
 
 K
-
+keyboard = papan tik
 
 L
 library = pustaka
 libraries = pustaka
 link = tautan
+lowercase = huruf kecil
 
 M
 margin = batasan
@@ -125,6 +131,7 @@ pause = jeda (kb) menjeda (kk)
 picture = gambar
 pointer = penunjuk [mouse pointer = penunjuk tetikus]
 pop up = pop up
+predefined = 
 preference = preferensi
 presenter = penyaji
 preview = pratinjau
@@ -136,10 +143,12 @@ query = kueri
 R
 range = rentang
 recent = terkini
+record = catatan
 reference = referensi
 region = wilayah
 remove = hapus, hapuskan
 replace = ganti, gantikan
+reset = 
 restart = mulai ulang
 restore = pulihkan, memulihkan
 review = tinjau (kk), tinjauan (kb)
