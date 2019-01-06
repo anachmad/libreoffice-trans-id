@@ -3,6 +3,7 @@ advanced = lanjut
 align = rata (kb), ratakan (kk)
 alignment = perataan
 anchor = 
+assign = menetapkan
 author = pengarang
 
 B
@@ -67,6 +68,7 @@ event = kejadian
 F
 field = ruas
 file = berkas
+flat = 
 folder = folder
 font = fon
 footer = kaki
@@ -112,7 +114,8 @@ mouse = tetikus
 multiple = 
 
 N
-null = nol
+null = nol / nihil
+
 number = nomor (cth : numbered list), bilangan (cth : complex number)
 
 O
@@ -127,6 +130,7 @@ overwrite = menimpa
 
 P
 path = jalur
+paste = 
 pause = jeda (kb) menjeda (kk)
 picture = gambar
 pointer = penunjuk [mouse pointer = penunjuk tetikus]
@@ -148,7 +152,7 @@ reference = referensi
 region = wilayah
 remove = hapus, hapuskan
 replace = ganti, gantikan
-reset = 
+reset = reset
 restart = mulai ulang
 restore = pulihkan, memulihkan
 review = tinjau (kk), tinjauan (kb)
