@@ -168,7 +168,7 @@ shape = bentuk
 shortcut = pintasan
 slide = salindia
 specify = tentukan
-spreadsheet = ?
+spreadsheet = lembar kerja
 syntax = sintaksis
 
 T
